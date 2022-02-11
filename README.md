@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the memento design pattern. 
+Simple project representing the memento design pattern. This project used the same example from my <a href="https://github.com/Piazzi/state"> state design pattern project </a>
 
 # Definition
 
